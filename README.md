@@ -13,7 +13,7 @@ TutorTest provides a framework to: (1) Prepare and preprocess offline tutoring d
 Python 3.9
 
 # Datasets
-Place all raw data under offline_data/ in dataset-specific subfolders:
+Place all raw data under offline_data/. 
 ## CIMA
 Download: https://aclanthology.org/2020.bea-1.5/
 Put files under: offline_data/cima/
